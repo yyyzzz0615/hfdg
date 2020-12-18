@@ -85,10 +85,194 @@
 
 <!-- 分类导航开始 -->
     <div class="home-carousel">
+    </div>
+    <div class="container">
         <div class="pull-left menu-left">
-
+            <ul class="menu-category">
+                <li class="menu-category-item dropdown">
+                    <a href="#" class="m-name">全部整车<span class="icon-twomenu-Arrow">></span></a>
+                    <div class="children children-list-col-4 dropdown-menu">
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1597718678883.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>第二代哈弗H6</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143926867.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗F5</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143935117.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H7</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143941842.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>新哈弗H6 Coupe</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143948778.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H6 运动版</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143956110.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗M6</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143965273.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H2</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143977912.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗F7</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143987910.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H9</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588143999711.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H5 经典版</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588569756345.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗F7x</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1588569910016.jpg">
+                                    </div>
+                                    <div class="item-name">
+                                        <span>哈弗H4</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </li>
+                <li class="menu-category-item dropdown">
+                    <a href="#" class="m-name">严选车品<span class="icon-twomenu-Arrow">></span></a>
+                    <div class="children children-list-col-1 dropdown-menu">
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1581586121019.jpg">
+                                    </div>
+                                    <div class="item-name"><span>汽车模型</span></div>
+                                </a>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </li>
+                <li class="menu-category-item dropdown">
+                    <a href="#" class="m-name">哈弗互联<span class="icon-twomenu-Arrow">></span></a>
+                    <div class="children children-list-col-1 dropdown-menu">
+                        <ul class="children-list">
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/card-1.png">
+                                    </div>
+                                    <div class="item-name"><span>一年套餐</span></div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/card-2.png">
+                                    </div>
+                                    <div class="item-name"><span>两年套餐</span></div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="carcase">
+                                        <img src="images/1512720047349.png">
+                                    </div>
+                                    <div class="item-name"><span>查看更多</span></div>
+                                </a>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </li>
+            </ul>
         </div>
-        <div class="clear"></div>
     </div>
 <!-- 分类导航结束 -->
 
@@ -488,21 +672,96 @@
 }
 .home-carousel{
     height: 520px;
-
+    /* float: left; */
     width: 100%;
-
+    position: relative;
 }
 
 
 
 .menu-left{
     background: rgba(0,0,0,0.7);
+    margin-top: -520px;
     width: 272px;
     height: 520px;
 }
-.pull-left{
-    float: left !important;
+.menu-category{
+    width: 272px;
+    height: 253px;
+    position: relative;
+    z-index: 10;
+    padding-top: 25px;
 }
+.menu-category .menu-category-item{
+    cursor: pointer;
+    font-size: 18px;
+}
+.menu-category .m-name{
+    position: relative;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 35px;
+    color: #e5e5e5;
+}
+.menu-category .m-name span{
+    position: absolute;
+    right: 35px;
+    /* top: 18px; */
+    font-size: 15px;
+    color: #fff;
+}
+.menu-category .children-list-col-4{
+    width: 865.5px;
+}
+.menu-category-item .children{
+    /* display: none; */
+    left: 272px;
+    top: 0;
+    height: 520px;
+    opacity: 1;
+    position: absolute;
+    box-shadow: 12px 15px 30px rgba(0,0,0,0.1);
+    background: #fff;
+    z-index: 999 !important;
+}
+.menu-category .children .children-list{
+    width: 212px;
+    float: left;
+    padding-left: 35px;
+}
+.menu-category .children-list li{
+    position: relative;
+    margin-top: 20px;
+    overflow: hidden;
+}
+.menu-category .children-list a{
+    width: 100%;
+    display: block;
+    font-size: 14px;
+}
+.menu-category .children-list .carcase img{
+    width: 100%;
+}
+.menu-category .children-list .carcase{
+    width: 175px;
+    height: 124px;
+}
+.menu-category .children-list .item-name{
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.dropdown .dropdown-menu{display: none;}
+.dropdown{transition: .2s;}
+.dropdown:hover{background-color: #f00;}
+.dropdown:hover .dropdown-menu{display: block;}
+
+
+.menu-category .children-list-col-0, .menu-category .children-list-col-1{
+    width: 229.5px;
+}
+
 
 
 .main-area-bg{
